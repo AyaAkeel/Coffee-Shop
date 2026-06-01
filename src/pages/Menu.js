@@ -15,7 +15,6 @@ function Menu({ addToCart }) {
 
       <div className="menu-content">
         <Routes>
-          {/* الـ path هون بياخد بس التكملة، بدون تكرار كلمة /menu */}
           <Route path="/" element={<Hot addToCart={addToCart} />} />
           <Route path="cold" element={<Cold addToCart={addToCart} />} />
           <Route path="desserts" element={<Dessert addToCart={addToCart} />} />
