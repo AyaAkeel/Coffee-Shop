@@ -1,7 +1,6 @@
 import InstagramIcon from "@mui/icons-material/Instagram";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import FacebookIcon from "@mui/icons-material/Facebook";
-// import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { CopyrightRounded } from '@mui/icons-material';
 import { NavLink } from 'react-router-dom';
 export default function About() {
