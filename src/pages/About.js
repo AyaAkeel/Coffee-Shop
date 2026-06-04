@@ -7,7 +7,7 @@ export default function About() {
     return <div className="about-page">
         <h2>About Our Coffee Shop</h2>
         <div className='about-content'>
-            <div><img src='src/images/coffee-backgrounds/pic2.png' className='about-img' alt='Coffee shope' /></div>
+            <div><img src='images/coffee-backgrounds/pic2.png' className='about-img' alt='Coffee shope' /></div>
             <div><p className='about-text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi illum porro omnis quos, libero cum, debitis distinctio mollitia amet voluptatum consequatur labore totam velit repellendus rerum. Doloribus ipsum facere perferendis?
                 Lorem ipsum dolor sit amet  consectetur adipisicing elit.<br /> Nemo tempora quaerat, quia odit alias, laudantium numquam debitis ipsam eos pariatur necessitatibus, unde delectus? Voluptates possimus ducimus quidem repellendus id aut.
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa sint sit dolorum dolor eaque. Nisi modi voluptatum quis architecto soluta. Nostrum aperiam atque provident labore tenetur ipsam voluptas laborum maiores!
