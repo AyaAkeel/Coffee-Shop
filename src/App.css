@@ -329,6 +329,9 @@ button:hover {
 
   .nav-links.open {
     display: flex;
+    width: 100%;
+    padding: 0px;
+    text-align: center;
   }
 
   .nav-links a {
@@ -380,11 +383,10 @@ button:hover {
   }
 
   .contact-container {
-    background-image: url(../public/images/coffee-backgrounds/1a3ef60c8f55665d2a97c9af54e4e459.jpg);
+    background-image: url(../public/images/coffee-backgrounds/34184946a2bab7a4ba11ade01575999d.jpg);
   }
 
   .contact-container h2 {
-    color: #2d1d11;
     font-size:25px;
   }
 }
