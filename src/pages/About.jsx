@@ -9,7 +9,7 @@ export default function About() {
         <h1>Our Coffee Story</h1>
         <div className='about-content'>
             <div className="about-img">
-                <img src='/images/coffee-backgrounds/pic2.png' 
+                <img src='https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=1200' 
                 className='about-img' alt='Coffee shope' />
             </div>
             <div>
