@@ -10,7 +10,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="logo">☕ Coffee Time </div>
       <div className={`nav-links ${isOpen ? "open" : ""}`}>
-        <NavLink to="/" onClick={() => setIsOpen(false)}>Home</NavLink>
+        <NavLink to="/Coffee-Shop/" onClick={() => setIsOpen(false)}>Home</NavLink>
         <NavLink to="/menu" onClick={() => setIsOpen(false)}>Menu</NavLink>
         <NavLink to="/about" onClick={() => setIsOpen(false)}>About</NavLink>
         <NavLink to="/cart" onClick={() => setIsOpen(false)}>Cart</NavLink>
