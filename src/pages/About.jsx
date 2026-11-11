@@ -10,7 +10,7 @@ export default function About() {
         <div className='about-content'>
             <div className="about-img">
                 <img src='https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=1200' 
-                className='about-img' alt='Coffee shope' />
+                className='about-img' alt='Coffee shope about' />
             </div>
             <div>
                 <p className='about-text'>
